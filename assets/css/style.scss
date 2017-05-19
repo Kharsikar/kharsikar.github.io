@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
+$font-stack: Helvetica, sans-serif;
+$primary-color: #eee;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
