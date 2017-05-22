@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sarah Kirk, Digital Designer, Launches Site"
+title: "Sarah Kirk's CV"
 date: 2017-05-20
 ---
 
