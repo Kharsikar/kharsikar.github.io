@@ -5,5 +5,5 @@ date: 2017-05-23
 ---	
 
 
-
-sldsal;dlsa';dls';lda;'sla;'sl;dlas;dlsa';'
+<img src="{{ site.baseurl }}/images/StockSnap_FSPLFPQBCZ.jpg" class="fit image">
+Post about designing responsive emails
