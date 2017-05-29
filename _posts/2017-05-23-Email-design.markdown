@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Email Design"
+title: "Email design"
 date: 2017-05-23
 ---	
 
