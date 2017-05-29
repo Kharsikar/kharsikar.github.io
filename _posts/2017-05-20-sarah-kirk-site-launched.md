@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Sarah Kirk's CV"
+title: "CV"
 date: 2017-05-20
 ---
 
-# CV
+# Sarah Kirk
 
 An excellent team player, I am creative and imaginative, a fast learner who is always willing to learn more, and with a positive attitude. I keep up to date with modern trends and technologies.
 
