@@ -1060,7 +1060,7 @@
 /* Instafeed */ 
 
 
-	#instafeed a {
+	#instafeed img {
 	    -webkit-box-flex: 1;
 	    -webkit-flex-grow: 1;
 	    -ms-flex-positive: 1;
@@ -1075,7 +1075,7 @@
 	}
 
 	@media screen and (max-width: 750px) {
-	#instafeed a {
+	#instafeed img {
 	    -webkit-flex-basis: calc(100%/3);
 	    -ms-flex-preferred-size: calc(100%/3);
 	    flex-basis: calc(100%/3);
@@ -1083,7 +1083,7 @@
 }
 
 	@media screen and (max-width: 900px) {
-	#instafeed a {
+	#instafeed img {
 	    -webkit-flex-basis: calc(100%/4);
 	    -ms-flex-preferred-size: calc(100%/4);
 	    flex-basis: calc(100%/4);
@@ -1091,19 +1091,20 @@
 }
 
 	@media screen and (max-width: 1050px) {
-	#instafeed a {
+	#instafeed img {
 	    -webkit-flex-basis: calc(100%/2);
 	    -ms-flex-preferred-size: calc(100%/2);
 	    flex-basis: calc(100%/2);
 	}
 }
 
-	@media screen and (min-width: 1450px)
-	#instafeed a {
+	@media screen and (min-width: 1450px) {
+	#instafeed img {
 	-webkit-flex-basis: calc(100%/4);
 	-ms-flex-preferred-size: calc(100%/4);
 	flex-basis: calc(100%/4);
-		}		
+		}
+}
 
 /* Footer */
 
