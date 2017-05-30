@@ -1080,7 +1080,7 @@
 	    margin-right: -.5vw;
 	}
 
-	#instagram img {
+	#instafeed img {
 	    width: 100%;
 	}
 
@@ -1098,13 +1098,14 @@
 	    border: .5vw solid transparent;
 	}
 
+	#instafeed:hover a {
+	    opacity: .8;
+	}
+
 	#instafeed a:hover {
 	    opacity: 1;
 	}
 
-	#instafeed:hover a {
-	    opacity: .8;
-	}
 
 	@media screen and (max-width: 750px) {
 	#instafeed a {
