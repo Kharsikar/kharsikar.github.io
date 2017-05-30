@@ -844,7 +844,7 @@
 /* Wrapper */
 
 	.wrapper {
-		padding: 6em 0 4em 0;
+		padding: 3em 0 4em 0;
 	}
 
 		.wrapper.style1 {
@@ -1143,7 +1143,7 @@
 
 	#footer {
 		background: #f8f8f8;
-		padding: 4em 0 6em 0;
+		padding: 2em 0 2em 0;
 	}
 
 		#footer a {
