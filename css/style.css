@@ -1056,6 +1056,15 @@
 				text-decoration: none;
 			}
 
+
+/* Instafeed */ 
+
+	.instafeed img {
+		 padding-left: 15px;
+			width: 250px;
+	}
+			
+
 /* Footer */
 
 	#footer {
