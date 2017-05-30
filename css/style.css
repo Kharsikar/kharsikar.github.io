@@ -1077,26 +1077,29 @@
 	    border: .5vw solid transparent;
 	}
 
-	@media screen and (max-width: 750px)
+	@media screen and (max-width: 750px) {
 	#instafeed a {
 	    -webkit-flex-basis: calc(100%/3);
 	    -ms-flex-preferred-size: calc(100%/3);
 	    flex-basis: calc(100%/3);
 	}
+}
 
-	@media screen and (max-width: 900px)
+	@media screen and (max-width: 900px) {
 	#instafeed a {
 	    -webkit-flex-basis: calc(100%/4);
 	    -ms-flex-preferred-size: calc(100%/4);
 	    flex-basis: calc(100%/4);
 	}
+}
 
-	@media screen and (max-width: 1050px)
+	@media screen and (max-width: 1050px) {
 	#instafeed a {
 	    -webkit-flex-basis: calc(100%/2);
 	    -ms-flex-preferred-size: calc(100%/2);
 	    flex-basis: calc(100%/2);
 	}
+}
 
 	@media screen and (min-width: 1450px)
 	#instafeed a {
