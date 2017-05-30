@@ -1059,9 +1059,6 @@
 
 /* Instafeed */ 
 
-	#instafeed a {
-		 width: 100%
-	}
 
 	#instafeed a {
 	    -webkit-box-flex: 1;
