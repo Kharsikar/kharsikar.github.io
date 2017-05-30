@@ -20,7 +20,7 @@ layout: landing-page
 						<div class="4u">
 							<section class="special box">
 								<i class="icon fa fa-leanpub major"></i>
-								<h3>Experience</h3>
+								<h3>My Experience</h3>
 								<p>Originally worked in retail as a store manager at Gamestation. I decided to change my career path as I was always into the arts and technology.</p><p>
 I spent a couple of years learning web design and got my foot in the door at a publishing company in London. I have been in the web team for 7 years now and started from content management to being responsible for redesigning the current brand websites and adapting the CMS.</p>
 							</section>
@@ -28,7 +28,7 @@ I spent a couple of years learning web design and got my foot in the door at a p
 						<div class="4u">
 							<section class="special box">
 								<i class="icon fa-cog major"></i>
-								<h3>Skills</h3>
+								<h3>My Skills</h3>
 								<p>Front-end designer, skilled in: HTML5, CSS3, SASS, Adobe creative suite and email newsletter design.</p><p>Experienced in kanban, QA testing and project management, ticket support system, CMS and CRM</p>
 							</section>
 						</div>
@@ -40,27 +40,27 @@ I spent a couple of years learning web design and got my foot in the door at a p
 			<section id="two" class="wrapper style2">
 				<header class="major">
 					<h2>Recent blog posts</h2>
-					<p>Amet nisi nunc lorem accumsan</p>
+					<p></p>
 				</header>
 				<div class="container">
 					<div class="row">
 						<div class="6u">
 							<section class="special">
-								<a href="#" class="image fit"><img src="images/StockSnap_FSPLFPQBCZ.jpg" alt="" /></a>
+								<a href="https://kharsikar.github.io/sarahekirk/design/2017/04/17/website-design.html" class="image fit"><img src="images/StockSnap_FSPLFPQBCZ.jpg" alt="blog post" /></a>
 								<h3>Web design</h3>
 								<p>Redesigning the websites at Law Business Research</p>
 								<ul class="actions">
-									<li><a href="#" class="button alt">Read More</a></li>
+									<li><a href="https://kharsikar.github.io/sarahekirk/design/2017/04/17/website-design.html" class="button alt">Read More</a></li>
 								</ul>
 							</section>
 						</div>
 						<div class="6u">
 							<section class="special">
-								<a href="#" class="image fit"><img src="images/StockSnap_FSPLFPQBCZ.jpg" alt="" /></a>
+								<a href="https://kharsikar.github.io/sarahekirk/2017/05/23/Email-design.html" class="image fit"><img src="images/StockSnap_FSPLFPQBCZ.jpg" alt="blog post" /></a>
 								<h3>Email design</h3>
 								<p>Email newsletter design at Law Business Research</p>
 								<ul class="actions">
-									<li><a href="#" class="button alt">Read More</a></li>
+									<li><a href="https://kharsikar.github.io/sarahekirk/2017/05/23/Email-design.html" class="button alt">Read More</a></li>
 								</ul>
 							</section>
 						</div>
@@ -69,28 +69,29 @@ I spent a couple of years learning web design and got my foot in the door at a p
 			</section>
 
 		<!-- Three -->
-<section id="three" class="wrapper style1">
+			<section id="three" class="wrapper style1">
 				<div class="container">
 					<div class="row">
 					<div id="instafeed"></div>
-					<script type="text/javascript" src="{{ site.baseurl }}/js/instafeed.min.js"></script>
+					<script type="text/javascript" src="js/instafeed.js"></script>
+						
 					{% assign special = '{{ image }}' %}
-{{ special }}
-<script type="text/javascript">
-  var userFeed = new Instafeed({
-    get: 'user',
-    userId: '34654772',
-    clientId: 'ad622d190afc4418baf6705ac40080cb',
-    accessToken: '34654772.ad622d1.ec9c5e044e3f4683827daa4df736ada1',
-    resolution: 'standard_resolution',
-    template: '<a href="{{link}}" target="_blank" id="{{id}}"><img src="{{image}}" /></a>',
-    sortBy: 'most-recent',
-    limit: 20,
-    links: true
-  });
-  userFeed.run();
-</script>
-						<!-- <div class="8u">
+						
+					<script type="text/javascript">
+					  var userFeed = new Instafeed({
+					    get: 'user',
+					    userId: '34654772',
+					    clientId: 'ad622d190afc4418baf6705ac40080cb',
+					    accessToken: '34654772.ad622d1.ec9c5e044e3f4683827daa4df736ada1',
+					    resolution: 'standard_resolution',
+					    template: '<a href="{{link}}" target="_blank" id="{{id}}"><img src="{{image}}" /></a>',
+					    sortBy: 'most-recent',
+					    limit: 20,
+					    links: true
+					  });
+					  userFeed.run();
+					</script>
+											<!-- <div class="8u">
 							<section>
 								<h2>Mollis ut adipiscing</h2>
 								<a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
