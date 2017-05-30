@@ -1059,7 +1059,7 @@
 
 /* Instafeed */ 
 
-	.instafeed img {
+	#instafeed img {
 		 width: 100%
 	}
 
