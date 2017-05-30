@@ -75,8 +75,9 @@ I spent a couple of years learning web design and got my foot in the door at a p
 					<div id="instafeed"></div>
 					<script type="text/javascript" src="js/instafeed.js"></script>
 						
-					{% assign special = '{{ image }}' %}
+<!-- 					{% assign special = '{{ image }}' %} -->
 						
+					{% raw %}	
 					<script type="text/javascript">
 					  var userFeed = new Instafeed({
 					    get: 'user',
@@ -91,6 +92,7 @@ I spent a couple of years learning web design and got my foot in the door at a p
 					  });
 					  userFeed.run();
 					</script>
+					{% endraw %}
 											<!-- <div class="8u">
 							<section>
 								<h2>Mollis ut adipiscing</h2>
