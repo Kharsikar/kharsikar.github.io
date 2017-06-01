@@ -9,7 +9,7 @@ published: false
 
 # Web design projects
 
-Hello! So these are a few of the website projects I have created. These involved using CSS3, HTML5 and JQuery.
+Hello! So these are a few of the website projects I have created. These involved using CSS3, HTML5 and jQuery.
 
 The websites I created were done while on a front-end development course in London. 
 
