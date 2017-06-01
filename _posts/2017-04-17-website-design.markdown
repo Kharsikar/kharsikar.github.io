@@ -14,8 +14,7 @@ Hello! So these are a few of the website projects I have created. These involved
 <img src="{{ site.baseurl }}/images/TeaTime.jpg" class="fit image">
 
 ## Tea Time
-
-<a href="http://kharsikar.github.io/teatime"/>http://kharsikar.github.io/teatime/</a>
+[http://kharsikar.github.io/teatime](http://kharsikar.github.io/teatime)
 
 This was the first initial site I made. Got to grips with HTML5 sections, navigation function so it scrolls down the page with you, adding backgrounds images to different sections and learning how to use Google fonts. 
 <hr>
@@ -31,7 +30,7 @@ As above but this time also learnt how to create multiple pages and follow the s
 
 ## Granular
 
-http://kharsikar.github.io/granular/
+<a href="http://kharsikar.github.io/granular/">http://kharsikar.github.io/granular/</a>
 
 This was the fun one. Introduced to jQuery. Learnt how to implement parallax scrolling ( background moving at a slower rate to the foreground, creating a 2D effect as you scroll down the page. It creates depth to the site). Also learnt how to implement a mailchimp sign up form within the site.
 <hr>
