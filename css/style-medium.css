@@ -61,7 +61,7 @@
 
 		#navButton .toggle:before {
 			background: rgba(144, 149, 154, 0.75);
-			border-radius: 6px;
+			border-radius: 2px;
 			color: #fff;
 			display: block;
 			font-size: 17px;
@@ -75,7 +75,7 @@
 		}
 
 	#navPanel {
-		background: #192024;
+		background: rgb(16, 126, 103);
 		color: #c5c7c8;
 	}
 
