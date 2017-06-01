@@ -5,7 +5,7 @@ date:   2017-04-17 14:37:44
 categories: Design
 published: true
 ---
-<img src="{{ site.baseurl }}/images/StockSnap_FSPLFPQBCZ.jpg" class="fit image">
+<img src="{{ site.baseurl }}/images/embankment-wire-web-post.jpg" class="fit image">
 
 ## Web design projects
 
@@ -26,7 +26,7 @@ This was the first initial site I made. Got to grips with HTML5 sections, naviga
 
 As above but this time also learnt how to create multiple pages and follow the same design theme through out. Learnt how to use responsive css design. Using google map plugins. Grid systems, reset css so the site works on legacy older browsers. Importance of commenting your work. Also about how to shorten CSS so it's not so heavy on page load and to keep it uniform.
 <hr>
-<img src="{{ site.baseurl }}/images/Granular.jpg" class="fit image">
+<img src="{{ site.baseurl }}/images/Granula.jpg" class="fit image">
 
 ## Granular
 
