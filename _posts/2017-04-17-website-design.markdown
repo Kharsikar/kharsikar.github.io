@@ -3,12 +3,42 @@ layout: post
 title:  "Website design"
 date:   2017-04-17 14:37:44
 categories: Design
+published: false
 ---
 <img src="{{ site.baseurl }}/images/StockSnap_FSPLFPQBCZ.jpg" class="fit image">
-Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. Suspendisse potenti. Suspendisse ac maximus arcu. Sed ut mattis ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eleifend odio vitae varius aliquam. Quisque ac pretium nisi. Curabitur tempus urna ac ultrices commodo.
 
-Curabitur iaculis est at mattis mattis. Aliquam erat volutpat. Etiam vitae cursus quam. Nunc ultricies nunc non lorem fringilla cursus. Etiam dapibus libero ac turpis accumsan pulvinar. Sed auctor velit eget mi consequat bibendum. Aliquam interdum purus eget metus pretium ullamcorper.
+# Web design projects
 
-Pellentesque feugiat ex non ligula commodo, eget varius tortor pellentesque. Pellentesque id tortor felis. Cras fringilla ante eget orci laoreet, non consequat urna suscipit. Pellentesque luctus ac nulla vitae porttitor. Proin sed tortor quis magna efficitur efficitur a id leo. Donec efficitur augue et laoreet maximus. Ut semper egestas porttitor. Phasellus sagittis vulputate sem at laoreet.
+Hello! So these are a few of the website projects I have created. These involved using CSS3, HTML5 and JQuery.
 
-Sed lobortis urna ut mi volutpat, sit amet euismod sapien tincidunt. Nulla facilisi. Pellentesque quis tempus neque. Mauris dictum ac sapien nec congue. In hac habitasse platea dictumst. Duis id pellentesque nisl. Morbi eget massa magna.
+The websites I created were done while on a front-end development course in London. 
+
+## Tea Time
+
+http://kharsikar.github.io/teatime/
+
+This was the first initial site I made. Got to grips with HTML5 sections, navigation function so it scrolls down the page with you, adding backgrounds images to different sections and learning how to use Google fonts. 
+
+## Scout
+
+http://kharsikar.github.io/scout/destination.html
+
+As above but this time also learnt how to create multiple pages and follow the same design theme through out. Learnt how to use responsive css design. Using google map plugins. Grid systems, reset css so the site works on legacy older browsers. Importance of commenting your work. Also about how to shorten CSS so it's not so heavy on page load and to keep it uniform.
+
+## Granular
+
+http://kharsikar.github.io/granular/
+
+This was the fun one. Introduced to jQuery. Learnt how to implement parallax scrolling ( background moving at a slower rate to the foreground, creating a 2D effect as you scroll down the page. It creates depth to the site). Also learnt how to implement a mailchimp sign up form within the site.
+
+## Picasso
+
+http://kharsikar.github.io/picasso/
+
+Using the knowledge I learned from the websites above I went further into JQuery Here I learned how to create a rich gallery of images using a combination of CSS, HTML and jQuery. As you can see they do a fancy hover effect. Placed anchor points on the page so the navigation directly takes you to each gallery. -
+
+
+
+
+
+
