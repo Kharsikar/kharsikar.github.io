@@ -2,7 +2,7 @@
 layout: post
 title: "CV"
 date: 2017-05-19
-published: true
+published: false
 ---
 
 An excellent team player, I am creative and imaginative, a fast learner who is always willing to learn more with a positive attitude. I keep up-to-date with modern trends and technologies.
