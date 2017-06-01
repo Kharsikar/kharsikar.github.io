@@ -48,7 +48,7 @@
 		color: rgb(16, 126, 103);
 		font-weight: 300;
 		line-height: 1em;
-		margin: 0 0 1em 0;
+		margin: 0 0 .5em 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -78,6 +78,11 @@
 
 	h6 {
 		font-size: 0.7em;
+		line-height: 1.5em;
+	}
+
+	header h2 {
+		font-size: 1.5em;
 		line-height: 1.5em;
 	}
 
@@ -510,7 +515,7 @@
 	ul {
 		list-style: disc;
 		margin: 0 0 2em 0;
-		padding-left: 1em;
+		padding-left: 2em;
 	}
 
 		ul li {
@@ -874,11 +879,11 @@
 			}
 
 				.wrapper.style2 .button.alt:hover {
-					background-color: rgba(144, 144, 144, 0.275);
+					background-color: rgba(224, 142, 121, 0.275);
 				}
 
 				.wrapper.style2 .button.alt:active {
-					background-color: rgba(144, 144, 144, 0.4);
+					background-color: rgba(224, 142, 121, 0.4);
 				}
 
 				.wrapper.style2 .button.alt.icon:before {
