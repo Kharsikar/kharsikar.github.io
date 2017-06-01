@@ -1024,16 +1024,16 @@
 		}
 
 		#banner .button.alt {
-			box-shadow: inset 0 0 0 2px rgba(239, 213, 192, 0.8);
+			box-shadow: inset 0 0 0 2px rgba(224, 142, 121, 0.8);
 			color: #efd6c2 !important;
 		}
 
 			#banner .button.alt:hover {
-				background-color: rgba(236, 143, 67, 0.275);
+				background-color: rgba(224, 142, 121, 0.27);
 			}
 
 			#banner .button.alt:active {
-				background-color: rgba(236, 143, 67, 0.4);
+				background-color: rgba(224, 142, 121, 0.4);
 			}
 
 			#banner .button.alt.icon:before {
