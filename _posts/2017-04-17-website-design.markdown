@@ -8,8 +8,8 @@ published: true
 <img src="{{ site.baseurl }}/images/embankment-wire-web-post.jpg" class="fit image">
 
 
-Hello! So these are a few of the website projects I have created. These involved using CSS3, HTML5 and jQuery. The websites I created were done while on a front-end development course in London. 
-
+<p style="text-align:center">Hello! So these are a few of the website projects I have created. These involved using CSS3, HTML5 and jQuery. The websites I created were done while on a front-end development course in London.</p> 
+<hr>
 <img src="{{ site.baseurl }}/images/TeaTime.jpg" class="fit image">
 
 ## Tea Time
