@@ -5,10 +5,9 @@ date: 2017-05-19
 published: true
 ---
 
-# Sarah Kirk
 An excellent team player, I am creative and imaginative, a fast learner who is always willing to learn more with a positive attitude. I keep up-to-date with modern trends and technologies.
 
-## Objective
+## Objective ⟶
 - Digital Designer position in the technology sector where my expertise in web design, graphic design, content publication and email marketing will support the company’s development.
 
 ## Summary ⟶
