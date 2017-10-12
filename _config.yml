@@ -4,7 +4,7 @@ email: sarahek7@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Portfolio site for Sarah Kirk
 baseurl: "/sarahekirk" # the subpath of your site, e.g. /blog/
-url: "http://kharsikar.github.io/sarahekirk" # the base hostname & protocol for your site
+url: "http://kharsikar.github.io" # the base hostname & protocol for your site
 twitter_username: Kharsikar
 github_username:  Kharsikar
 
