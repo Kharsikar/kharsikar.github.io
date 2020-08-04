@@ -12,4 +12,4 @@ published: True
 <hr>
 <p style="text-align:center">Currently it is only in landing page template and not ready to upload but to get a taste of the design of the site I have uploaded a screenshot. This is a homage to Blade Runner. I have still yet to see the new film but the old film has always inspired me. Meeting vintage with futuristic style.</p> 
 
-<img src="{{ site.baseurl }}/images/kharsikar-screenshot.jpg" class="fit image">
+<img src="/images/kharsikar-screenshot.jpg" class="fit image">
