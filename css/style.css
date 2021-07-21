@@ -911,7 +911,7 @@
 	}
 
 		#header h1 {
-			color: rgb(16, 126, 103);
+			color: rgb(214, 40, 40);
 			font-weight: 500;
 			height: inherit;
 			left: 1.25em;
@@ -1001,7 +1001,7 @@
 		padding: 18em 0;
 		text-align: center;
 		position: relative;
-		background-color: rgb(40, 214, 172);
+		background-color: rgb(214, 40, 40);
     		background-blend-mode: luminosity;
 	}
 
